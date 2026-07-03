@@ -1,0 +1,15 @@
+class Solution {
+public:
+    char findTheDifference(string s, string t) {
+        long long sum=0;
+        long long s2=0;
+        for(char c : s){
+            sum+=c-'a';
+        }
+        for(char c : t){
+            s2+=c-'a';
+        }
+
+        return char(s2-sum+'a');
+    }
+};
