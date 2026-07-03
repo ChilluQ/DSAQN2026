@@ -1,0 +1,21 @@
+class Solution {
+public:
+    char findTheDifference(string s, string t) {
+        int arr[26]={0};
+        for(char c: s){
+            arr[c-'a']++;
+        }
+        for(char c: t){
+            arr[c-'a']--;
+        }
+        // int flag=0;
+        char k;
+        for(int i=0 ; i<26 ; i++){
+            if(arr[i]<0){
+                
+                return i+'a';
+            }
+        }
+        return ' ';
+    }
+};
