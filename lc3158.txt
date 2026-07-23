@@ -1,0 +1,15 @@
+class Solution {
+public:
+    int duplicateNumbersXOR(vector<int>& nums) {
+        int sum=0;
+        unordered_set<int> seen;
+        for(int num : nums){
+            if(seen.count(num)){
+                sum=sum^num;
+            }else{
+                seen.insert(num);
+            }
+        }
+        return sum;
+    }
+};
