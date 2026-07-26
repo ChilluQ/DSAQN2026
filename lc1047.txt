@@ -1,0 +1,20 @@
+class Solution {
+public:
+    string removeDuplicates(string s) {
+        string k="";
+        stack<char> st;
+        for(char c : s){
+            if(!st.empty() && st.top()==c){
+                st.pop();
+            }else{
+                st.push(c);
+            }
+        }
+        while(!st.empty()){
+            k+=st.top();
+            st.pop();
+        }
+        reverse(k.begin(), k.end());
+        return k ;
+    }
+};
