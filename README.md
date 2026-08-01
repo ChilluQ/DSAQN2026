@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ChilluQ/DSAQN2026/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/ChilluQ/DSAQN2026/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ChilluQ/DSAQN2026/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ChilluQ/DSAQN2026/tree/master/0088-merge-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ChilluQ/DSAQN2026/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
