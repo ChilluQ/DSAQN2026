@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ChilluQ/DSAQN2026/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ChilluQ/DSAQN2026/tree/master/0069-sqrtx) |
+| [0292-nim-game](https://github.com/ChilluQ/DSAQN2026/tree/master/0292-nim-game) |
 ## Recursion
 |  |
 | ------- |
@@ -50,4 +51,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ChilluQ/DSAQN2026/tree/master/0069-sqrtx) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ChilluQ/DSAQN2026/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ChilluQ/DSAQN2026/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ChilluQ/DSAQN2026/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ChilluQ/DSAQN2026/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ChilluQ/DSAQN2026/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
