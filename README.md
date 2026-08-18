@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ChilluQ/DSAQN2026/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/ChilluQ/DSAQN2026/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ChilluQ/DSAQN2026/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChilluQ/DSAQN2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ChilluQ/DSAQN2026/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ChilluQ/DSAQN2026/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
