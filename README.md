@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChilluQ/DSAQN2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ChilluQ/DSAQN2026/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ChilluQ/DSAQN2026/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ChilluQ/DSAQN2026/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/ChilluQ/DSAQN2026/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ChilluQ/DSAQN2026/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ChilluQ/DSAQN2026/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ChilluQ/DSAQN2026/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ChilluQ/DSAQN2026/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ChilluQ/DSAQN2026/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -30,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ChilluQ/DSAQN2026/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ChilluQ/DSAQN2026/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ChilluQ/DSAQN2026/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ChilluQ/DSAQN2026/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ChilluQ/DSAQN2026/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ChilluQ/DSAQN2026/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ChilluQ/DSAQN2026/tree/master/2149-rearrange-array-elements-by-sign) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ChilluQ/DSAQN2026/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
